@@ -38,12 +38,6 @@ More security-focused projects are in progress — this section grows as they sh
 **Security & Threat Intel:** MITRE ATT&CK · CVE/NVD · CISA KEV · EPSS · Risk-Based Vulnerability Prioritisation
 **AI/LLM:** Google Gemini API · Prompt Engineering · Structured-Output Validation
 
----
-
-### 📊 GitHub Stats
-
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripathin750&show_icons=true&theme=default&hide_border=true)
-
 <!--
 Still worth doing manually (no GitHub API/gh CLI access in this session):
 Profile page → Customize your pins → pin AI-Threat-Intelligence-Assistant now, and add each new
